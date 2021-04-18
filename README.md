@@ -34,9 +34,22 @@ Content table
 
 ### Pre-Reqs
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Install the following:
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/). 
+- Text Editor such as VSCode: [VSCode](https://code.visualstudio.com/)
+- 
+Recommended VSCode extention
+Name: Arduino
+Id: vsciot-vscode.vscode-arduino
+Description: Arduino for Visual Studio Code
+Version: 0.4.0
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+
+Alternative: you can also use Arduino IDE:
+https://www.arduino.cc/en/software
+
 
 
 
