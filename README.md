@@ -7,15 +7,15 @@
 Content table
 =================
 <!--ts-->
-   * [About](#Sobre)
-   * [Content Table](#tabela-de-conteudo)
-   * [Installing](#instalacao)
-   * [How to use](#como-usar)
-      * [Pre Reqs](#pre-requisitos)
+   * [About](#About)
+   * [Content Table](#content-table)
+   * [Installing](#install)
+   * [How to use](#how-to-use)
+      * [Pre Reqs](#pre-reqs)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tech](#tecnologias)
+   * [Tests](#tests)
+   * [Tech](#tech)
 <!--te-->
