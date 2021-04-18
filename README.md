@@ -1,8 +1,9 @@
+![Badge](https://img.shields.io/github/license/theFelps/pi-iv-arduino)
 # pi-iv-arduino
 
 ## Arduino Project -- PI. Lil' plants sensors and stuff
 
-![Badge](https://img.shields.io/david/dev/test/test)
+//![Badge](https://img.shields.io/david/dev/test/test)
 
 Content table
 =================
