@@ -19,3 +19,14 @@ Content table
    * [Tests](#tests)
    * [Tech](#tech)
 <!--te-->
+
+=================
+
+### Features
+
+- [x] Light Sensor
+- [x] DHT (air temp and humidity)
+- [ ] Hygrometer
+- [ ] Wifi Module?!
+- [ ] Web-page? Api?
+- [ ] 
