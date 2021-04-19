@@ -1,6 +1,4 @@
-![Badge](https://img.shields.io/github/license/theFelps/pi-iv-arduino)
-![Badge](https://img.shields.io/github/license/theFelps/pi-iv-arduino)
-<a href="https://github.com/theFelps/pi-v-arduino/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/theFelps/pi-iv-arduino"></a>
+![Badge](https://img.shields.io/github/license/theFelps/pi-v-arduino)
 # pi-iv-arduino
 
 
