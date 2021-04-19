@@ -1,9 +1,8 @@
 ![Badge](https://img.shields.io/github/license/theFelps/pi-iv-arduino)
 # pi-iv-arduino
 
-## Arduino Project -- PI. Lil' plants sensors and stuff
 
-//![Badge](https://img.shields.io/david/dev/test/test)
+## Arduino Project -- PI. Lil' plants sensors and stuff
 
 Content table
 =================
@@ -52,4 +51,14 @@ https://www.arduino.cc/en/software
 
 
 
+### Arduino Components:
+- Arduino base
+- Wireless Module (ESP8266)
+- DHT Sensor
+- Photo-Resistor
+- Hygrometer (YL-69)
 
+useful refs:
+- https://www.filipeflop.com/blog/esp8266-arduino-tutorial/
+- https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+- 
